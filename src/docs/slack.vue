@@ -2,7 +2,7 @@
 <div class="overallDivs">  
   <card class="cardSigup text-center">
    <btn id="button" v-on:click.native="slack" type="button" class="googleButtons btn btn-google-plus">ChatBox</btn>
-<a href="https://slack.com/oauth/authorize?client_id=385659558674.386713028231&scope=admin,incoming-webhook"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
+<a href="https://slack.com/oauth/authorize?client_id=372028459318.370611099329&scope=admin,incoming-webhook"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
   </card>
 </div>
 <!-- <ui-auth
